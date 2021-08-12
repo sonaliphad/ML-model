@@ -1,4 +1,8 @@
 # ML-model
+Problem Statement-
+With the given 9 features(categorical and continuous) build a model to predict the price of houses in Bengaluru.
+
+Installation - Numpy, Pandas, Matplotlib Seaborn
 
 Data-
 1.The train and test data will consist of various features that describe that property in Bengaluru.
@@ -16,7 +20,4 @@ Features-
 
 Target-
 Price – Value of the property in lakhs
-
-Problem Statement-
-With the given 9 features(categorical and continuous) build a model to predict the price of houses in Bengaluru.
 
